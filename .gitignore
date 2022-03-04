@@ -1,7 +1,5 @@
 # Data folder
-data/CCCD_Chip
-data/CCCD
-data/CMND
+data/
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
